@@ -7,6 +7,7 @@ public class ProbandoEgit {
 		String nombrePokemon = "Pikachu";
 		
 		int pociones = 20;
+		int pokeballs = 5;
 	}
 
 }
